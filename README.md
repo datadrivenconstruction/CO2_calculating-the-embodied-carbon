@@ -1,5 +1,4 @@
-
-# # СO2 Carbon emissions calculation tool
+ # СO2 Carbon emissions calculation tool
 
 The total carbon emissions for projects in RVT and IFS format can be calculated by multiplying the volume of the element groups by the corresponding energy carbon emission factor.
 ![enter image description here](https://opendatabim.io/wp-content/uploads/2021/12/CO2-OpendataBIM-1.png)
