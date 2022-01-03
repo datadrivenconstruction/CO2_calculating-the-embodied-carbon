@@ -1,10 +1,18 @@
+
  # СO2 Carbon emissions calculation tool
 
 The total carbon emissions for projects in RVT and IFS format can be calculated by multiplying the volume of the element groups by the corresponding energy carbon emission factor.
 ![enter image description here](https://opendatabim.io/wp-content/uploads/2021/12/CO2-OpendataBIM-1.png)
-[Embodied carbon](https://www.worldgbc.org/bringing-embodied-carbon-upfront-report-webform)  is the carbon dioxide (CO₂) emissions associated with materials and construction processes throughout the whole lifecycle of a building or infrastructure.
+
+[Video instruction](https://youtu.be/fP0CTZstMoM)
+
+
+Embodied carbon is the carbon dioxide (CO₂) emissions associated with materials and construction processes throughout the whole lifecycle of a building or infrastructure.
 
 It includes any CO₂ created during the manufacturing of building materials (material extraction, transport to manufacturer, manufacturing), the transport of those materials to the job site, and the construction practices used.
+
+[ESG - Data-centered CO2 assessment](https://opendatabim.io/index.php/co2-carbon-calculator-with-revit-and-ifc/)
+
 
 
 # OpenDataBIM
