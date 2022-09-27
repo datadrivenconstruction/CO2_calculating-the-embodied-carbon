@@ -19,6 +19,8 @@ It includes any CO₂ created during the manufacturing of building materials (ma
 
 https://opendatabim.io/
 
+https://opendatabim.io/index.php/co2-carbon-calculator/
+
 OpenDataBIM transferring information to another party without the need for external guarantors or trusted ‘third parties’, enabling data to be exchanged within 3D-7D systems and between construction parties directly, bypassing any third-party companies controlling data storage and transfer. OpenDataBIM allows you to automate work with project data. In order to get automatic data from thousands of projects automatically, you need to build the pipeline once on the open tools.
 
 OpenDataBIM - You Way to Free Tools in Construction.
